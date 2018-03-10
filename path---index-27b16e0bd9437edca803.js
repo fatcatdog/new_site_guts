@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{521:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"/Users/jacobduchen/Desktop/gatsby_tutorials/tutorial-part-four/src/pages/this-website.md absPath of file >>> MarkdownRemark",frontmatter:{title:"this website",date:"10 March, 2018"},fields:{slug:"/this-website/"},excerpt:"I made this website with Gatsby's four-step tutorial. More info on Gatsby JS can be found here at  Gatsby's   website."}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-27b16e0bd9437edca803.js.map
